@@ -1,0 +1,7 @@
+﻿  FKQQ.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2866): warning C4005: “__useHeader”: 宏重定义
+  c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): note: 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2876): warning C4005: “__on_failure”: 宏重定义
+  c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): note: 参见“__on_failure”的前一个定义
+  FKQQ.vcxproj -> C:\Users\1234\Desktop\C++test\FKQQ\Debug\FKQQ.exe
+  FKQQ.vcxproj -> C:\Users\1234\Desktop\C++test\FKQQ\Debug\FKQQ.pdb (Full PDB)
